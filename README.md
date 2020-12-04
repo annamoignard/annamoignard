@@ -3,7 +3,7 @@
  
  I LOVE Ruby/Ruby on Rails! I have been working hard to learn new skills to expand on my front end & back end skills, and it's been great! ✨
 
-#### I am an energetic and passionate student at Coder Academy on my way to becoming a Full Stack Developer 💻
+#### I am an energetic and passionate student at Coder Academy  💻
 - 🔭 I’m currently working on building an extesnive portfolio for my peers and potential employers!
 - 🌱 I’m currently learning JavaScript, Node.js, Express.js and React 💚
 - 📫 How to reach me: @annamoignard on LinkedIn
