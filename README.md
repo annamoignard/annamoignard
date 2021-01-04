@@ -1,7 +1,7 @@
 ### Hi there, I'm Anna! 👋
 #### I am a Junior Full Stack Developer 🐢
  
- I JavaScript, React and Ruby on Rails! I have been working hard to learn new skills to expand on my front end & back end skills, and it's been great! ✨
+I am enthused by learning to code, and love using JavaScript, React and Ruby on Rails to create cool projects! I have been working hard to learn new skills to expand on my front end & back end skills, and it's been great! ✨
 
 #### I am an energetic and passionate student at Coder Academy  💻
 - 🔭 I’m currently working on building an extesnive portfolio for my peers and potential employers!
