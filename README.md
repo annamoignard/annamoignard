@@ -8,8 +8,8 @@ I am enthused by learning to code, and love using JavaScript, React and Ruby on 
 - 🌱 I’m developing my skills in JavaScript, Node.js, Express.js and React 💚
 - 📫 How to reach me: @annamoignard on LinkedIn
 
-I love skincare, reading and video-games for R&R 💛
-If I'm not coding, you'll find me cooking, doing yoga, reading or exploring restaurants around Melbourne for breakfast, lunch and dinner! 🧘🏻‍♀️🍝
+I love skincare, fitness, reading and video-games for R&R 💛
+If I'm not coding, you'll find me cooking, doing yoga or exploring restaurants around Melbourne for breakfast, lunch and dinner! 🧘🏻‍♀️🍝
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/amoignardcoder/my-stack)
 
